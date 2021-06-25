@@ -1,4 +1,4 @@
-console.log("f_initBranch");
+console.log("master");
 console.log("f1");
 console.log("done f1");
 console.log("f2");
